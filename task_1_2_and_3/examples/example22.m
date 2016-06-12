@@ -1,3 +1,4 @@
+%Nelson Campos
 % Systems Identification 
 % Example 2.2 of the book System Identification: Theory for the User (2nd Edition).
 
