@@ -1,3 +1,7 @@
+%Nelson Campos
+% Systems Identification
+% This task estimates the parameters of the RLC circuit. 
+% The simulink file is attached in the same directory of the task7.m
 %Data acquisiton
 
 %Continuous Data
