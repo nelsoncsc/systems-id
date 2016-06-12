@@ -1,4 +1,6 @@
-%Example 2.1
+% Systems Identification 
+% Example 2.1 of the book System Identification: Theory for the User (2nd Edition).
+
 clc
 close all
 clear all
