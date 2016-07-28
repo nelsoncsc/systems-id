@@ -104,7 +104,7 @@ Gn2 = Phi_yu./Phi_u;
 
 figure(4), semilogx(w,20*log10(abs(Gn2(1:NFFT)))), title('Estimated Transfer Function with equation (6.51)');
 
-%Task #5 start here
+%Task #5 starts here
 x = zeros(1, N);
 %definition of x(t)
 for k = 3: N
