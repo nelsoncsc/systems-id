@@ -1,6 +1,6 @@
 %Nelson Campos
 % Systems Identification
-% This task is estimates the parameters of a Solar Heating System. Although the system are non-linear, it is linear on the parameters.
+% This task estimates the parameters of a Solar Heating System. Although the system are non-linear, it is linear on the parameters.
 % The data were collected using the http://arohatgi.info/WebPlotDigitizer/
 % References: TOOLS FOR SEMIPHYSICAL MODELLING
 
