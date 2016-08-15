@@ -17,7 +17,7 @@ dataI = csvread('intensity.csv');
 dataI = dataI(1:N,:);
 I = dataI(:,2);
 
-%The pump velocity is collect from pump2.csv file
+%The pump velocity is collected from pump2.csv file
 dataPump = csvread('pump2.csv');
 
 %The matrix dimensions must agree
